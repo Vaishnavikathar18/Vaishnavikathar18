@@ -18,7 +18,7 @@
 
  👨‍💻 All of my projects are available at <a href="https://github.com/Vaishnavikathar18">GitHub</a>
 
- 📫 How to reach me <a href="kechekaran@gmail.com">vaishukmayu001@gmail.com</a>
+ 📫 How to reach me <a href="vaishukmayu001@gmail.com">vaishukmayu001@gmail.com</a>
 
  📄 About myself: I'm Vaishnavi Sanjay Kathar, a dedicated Computer Science engineering student with a relentless love for coding and development. I believe that the world of technology is a canvas, and programming is my way of painting it with innovative solutions.
 
@@ -57,14 +57,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img width=390 src="https://streak-stats.demolab.com?user=karankeche&theme=react&border_radius=10" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=karankeche&theme=react&show_icons=true&hide_border=false&count_private=true&border_radius=10" alt="readme stats" />
+    <img width=390 src="https://streak-stats.demolab.com?user=vasihnavikathar&theme=react&border_radius=10" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=vaishnavikathar&theme=react&show_icons=true&hide_border=false&count_private=true&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankeche&theme=react&show_icons=true&hide_border=false&layout=compact" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavikathar&theme=react&show_icons=true&hide_border=false&layout=compact" />
 </div>
 <br/>
 
 <hr/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karankeche&theme=onedark" alt="trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaishnavikathar&theme=onedark" alt="trophies">
 </div>
