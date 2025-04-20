@@ -22,7 +22,7 @@
 
  📄 About myself: I'm Vaishnavi Sanjay Kathar, a dedicated Computer Science engineering student with a relentless love for coding and development. I believe that the world of technology is a canvas, and programming is my way of painting it with innovative solutions.
 
- ⚡ Fun Fact I like Playing Games like Free Fire, BGMI and creates new stuffs
+ ⚡ Fun Fact I like to dance and  creates new stuffs
 
  </div>
  <h3 align="center">Connect with me:</h3>
